@@ -1,0 +1,17 @@
+.body {
+  background: white;
+}
+
+.container {
+  height: 70vh;
+  overflow-x:auto;
+  overflow-y: scroll;
+  background: gray;
+  padding: 2em;
+
+
+}
+
+.icon {
+  font-size: 20px;
+}
